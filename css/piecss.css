@@ -1,0 +1,53 @@
+#transac-title
+{
+	font-family: League Spartan;
+	letter-spacing: 1px;
+	color:#018bc1;
+	text-shadow: 0px 2px 0px #1B688F;
+
+}
+ #transac-number{
+ 	font-family: League Spartan;
+	letter-spacing: 1px;
+	color:#018bc1;
+	text-shadow: 0px 2px 0px #1B688F;
+	padding-top: 20px;
+ }
+.row{
+	padding-top: 70px;
+}
+
+
+
+
+#transac-info{
+	font-family: coves;
+	letter-spacing: 1px;
+	font-size: 15px;
+	width: 300px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+
+ #transac-ninfo{
+ 	font-family: coves;
+	letter-spacing:0px;
+	font-size: 14px;
+	width: 300px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: -10px;
+ }
+
+#mycanvas, #mycanvas2, #mycanvas3{
+	margin-left: -40px;
+}
+
+
+
+.info, .info2, .info3{
+	margin-left: 20px; 
+}
+
+
